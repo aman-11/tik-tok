@@ -1,0 +1,2 @@
+heroku backend: https://tiktoklasttry.herokuapp.com/v2/posts
+front end firebase: https://tiktok-clone-4d189.web.app/
